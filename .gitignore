@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Audio
+*.wav
+*.mp3
+*.ogg
+
+# Backup files
+*.bak*
+*.backup*
+*.old*
+*.mangled*
+
+# Version backups
+.version-backups/
+.backup-*/
+
+# Archive
+_archive/
+backup_imports/
+frontend_OLD_*/

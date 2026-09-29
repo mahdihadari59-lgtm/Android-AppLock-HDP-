@@ -1,0 +1,8 @@
+{
+  "name": "Hormozgan Smart",
+  "description": "Smart Hormozgan & Bandar Abbas assistant with offline dialect dictionary, knowledge base, POIs, traffic & map navigation, and voice chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
